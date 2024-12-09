@@ -7,7 +7,9 @@ I'm passionate about building **websites** and **apps** that solve real-world pr
 
 ## 🔧 Technologies & Tools I'm working with:
  **Frontend**: HTML, CSS, Bootstrap & Tailwind, JavaScript, React
+ 
  **Backend**: Node.js, Express, MongoDB
+ 
  **Version Control**: Git, GitHub
 
 ## 💬 Let's Collaborate!
